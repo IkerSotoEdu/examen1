@@ -1,0 +1,14 @@
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\obj\Debug\net10.0\RuletaCasino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\obj\Debug\net10.0\RuletaCasino.AssemblyInfoInputs.cache
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\obj\Debug\net10.0\RuletaCasino.AssemblyInfo.cs
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\obj\Debug\net10.0\RuletaCasino.csproj.CoreCompileInputs.cache
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\bin\Debug\net10.0\RuletaCasino.exe
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\bin\Debug\net10.0\RuletaCasino.deps.json
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\bin\Debug\net10.0\RuletaCasino.runtimeconfig.json
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\bin\Debug\net10.0\RuletaCasino.dll
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\bin\Debug\net10.0\RuletaCasino.pdb
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\obj\Debug\net10.0\RuletaCasino.dll
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\obj\Debug\net10.0\refint\RuletaCasino.dll
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\obj\Debug\net10.0\RuletaCasino.pdb
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\obj\Debug\net10.0\RuletaCasino.genruntimeconfig.cache
+C:\Users\korao\OneDrive\Documentos\GitHub\.net UAZ\examen1\RuletaCasino\obj\Debug\net10.0\ref\RuletaCasino.dll
